@@ -1,0 +1,48 @@
+# Core
+flask
+flask-cors
+gunicorn
+python-dotenv
+loguru
+validators
+
+# QR Module
+opencv-python
+pyzbar
+qreader
+numpy
+Pillow
+python-multipart
+
+# Scraper Module
+requests
+beautifulsoup4
+trafilatura
+playwright
+fake-useragent
+lxml
+
+# NLP Module
+torch
+transformers
+sentence-transformers
+scikit-learn
+rapidfuzz
+nltk
+spacy
+
+# OCR & Certification
+easyocr
+pytesseract
+
+# Scoring & Data
+pandas
+
+# Reports
+reportlab
+matplotlib
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
